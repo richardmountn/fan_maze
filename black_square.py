@@ -140,7 +140,7 @@ while True:
         break
 
 
-texting.show_msg("Ich liebe dich, meine Schatzi, du bist am besten!")
+texting.show_msg("You won!")
 
 turtle.done()
 
